@@ -26,7 +26,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Tools:** Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, ipython-sql, Scikit-learn, ScipPy, etc.
 
 **Projects:** random album generator, predict housing prices, best classifier model, battle of neighborhoods
 
