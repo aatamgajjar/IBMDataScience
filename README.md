@@ -1,4 +1,4 @@
-## ** This Repository contains projects and hands-on labs related to the Data Science Professional Certificate offered by IBM on Coursera. **
+**This Repository contains projects and hands-on labs related to the Data Science Professional Certificate offered by IBM on Coursera.**
 
 # IBM: Data Science Professional Certificate
 
