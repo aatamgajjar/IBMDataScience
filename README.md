@@ -1,3 +1,5 @@
+## ** This Repository contains projects and hands-on labs related to the Data Science Professional Certificate offered by IBM on Coursera. **
+
 # IBM: Data Science Professional Certificate
 
 <br>
@@ -5,6 +7,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
+
 
 ## About this Professional Certificate
 
